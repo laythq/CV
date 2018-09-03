@@ -2,13 +2,11 @@
 
 I am an ambitious and entrepreneurial self-starter who loves to code and learn. My work experience is very diverse, ranging from banking and contracting, to teaching. I have a very strong work ethic and enjoy fast and self-directed learning.
 
-I have travelled extensively throughout Europe, the USA and the Middle-East, and have been able to work and prosper in unfamiliar cultures and organisations. I have direct experience of founding and leading independent ventures such as the University of Warwick Arabic Society, the People & Politics talks series, and a street-food startup in Brick Lane.
+I have travelled extensively throughout Europe, the USA and the Middle-East, and have been able to work and prosper in unfamiliar cultures and organisations. I have direct experience of contributing to independent ventures such as the University of Warwick Arabic Society, the People & Politics talks series, and a street-food startup in Brick Lane.
 
 Having just completed a 12-week intensive coding bootcamp at Makers in London, I am looking to keep learning and developing as a coder. I would like to join a dynamic and compelling company and surround myself with passionate developers that I can learn from. My absolute priority is to continue developing my technical ability and to start contributing to a professional team. 
 
 ## Skills
-
-Over the Summmer, through Makers, I have been exposed to a very wide range of software development concepts, languages and frameworks. 
 
 #### I love working in a team
 
@@ -20,11 +18,11 @@ Before Makers, two friends and I turned a side-interest in street-food into viab
 
 Before I enrolled in Makers Academy in April of this year, I had absolutely no experience in software development and coding. Since then, my interest and engagement with the subject has grown exponentially, and I am completely fascinated by the subject. I have taken the opportunities given to me in this course to push my technical abilities constantly and to continue learning.
 
-In my own time I enjoy reading about wider developments in the industry. I have a keen interest in the business and entrepreneurial side of different companies, and love to read about major fundraising and deals that occur across the world in the industry. 
+In my own time I enjoy reading about wider developments in the industry. I have a keen interest in the business and entrepreneurial side of different companies, and love to read about major fundraising and deals that occur across the world in the industry. My favourite publications are TechCrunch, Medium and the Financial Times.
 
 #### I can learn quickly and independently
 
-The Makers Academy course was structured around independent and self-directed learning, in a high pace environment. As well as a strong emphasis on team work and pairing, students are also taught how to pick up skills through their own research and individual weekend projects. This course has given me the confidence to continue doing so. 
+The Makers Academy course is structured around independent and self-directed learning in a high pace environment. As well as a strong emphasis on team work and pairing, students are also taught how to pick up skills through their own research and individual weekend projects. This course has given me the confidence to continue doing so. 
 
 Having worked as a legal consultant in Egypt, an events coordinater in London, an investment banking intern in Dubai and a graduate at a contracting business in Kuwait, I enjoy working under pressure and adapting to meet the needs of my work, especially when working in unfamiliar environments where I have had to learn things quickly. 
 
@@ -32,7 +30,7 @@ Having worked as a legal consultant in Egypt, an events coordinater in London, a
 
 #### Makers Academy (June to September 2018)
 
-Through Makers, I have picked up a number of skills and experiences. I have learned how to test drive my code comprehensively, through tools and frameworks such as RSpec, Jasmine, Pytest, Jest, Istanbul and others. I now fully appreciate the value of TDD and have applied it in all my work so far. I have learned some Object Oriented Design fundamentals and applied them in my projects, which have been in Ruby, Rails and Javascript. I have also learned some basic Front-End skills, working with HTML and CSS, as well as other Back-End skills such as SQL. 
+Through Makers, I have picked up a number of skills and experiences. I have learned some Object Oriented Design fundamentals and applied them in my projects, which have been in Ruby, Rails and Javascript. I have learned how to test drive my code comprehensively, through tools and frameworks such as RSpec, Jasmine, Istanbul and others. I now fully appreciate the value of TDD and have applied it in all my work so far. I have also learned some basic Front-End skills, working with HTML, CSS and React, as well as other Back-End skills such as SQL. 
 
 I have also enjoyed the experience of learning more about how the Web works. I have built a number of Web Apps as part of a team as well as individually at Makers, working with Rails, Sinatra and Node/Express in the process. 
 
