@@ -1,39 +1,33 @@
 ## Layth Al-Qattan
 
-I am an ambitious and entrepreneurial self-starter who is awed by the power and potential of clean code. A strong academic track record, achieving the CFA Level 1 certification through independent study, and banking and contracting experience all prove a very strong work ethic and innate ability for fast and self-directed learning.
+I am an ambitious and entrepreneurial self-starter who loves to code and learn. My work experience is very diverse, ranging from banking and contracting, to teaching. I have a very strong work ethic and enjoy fast and self-directed learning.
 
-I have travelled extensively throughout Europe, the USA and the Middle-East, and demonstrated a strong ability to work and prosper in unfamiliar cultures and organisations. I have direct experience of founding and leading independent ventures such as the University of Warwick Arabic Society, the People & Politics talks series, and a street-food startup in Brick Lane.
+I have travelled extensively throughout Europe, the USA and the Middle-East, and have been able to work and prosper in unfamiliar cultures and organisations. I have direct experience of founding and leading independent ventures such as the University of Warwick Arabic Society, the People & Politics talks series, and a street-food startup in Brick Lane.
 
-What I am looking for....
+Having just completed a 12-week intensive coding bootcamp at Makers in London, I am looking to keep learning and developing as a coder. I would like to join a dynamic and compelling company and surround myself with passionate developers that I can learn from. My absolute priority is to continue developing my technical ability and to start contributing to a professional team. 
 
 ## Skills
 
+Over the Summmer, through Makers, I have been exposed to a very wide range of software development concepts, languages and frameworks. I have had the opportunity to work on three different projects in different teams, including a two-week final project, and have been pair programming throughout the whole course with the rest of my cohort.
+
 # Learning
 
-Throughout my career so far, I have often been put in extremely unfamiliar business environments that have forced me to learn and adapt at a very fast pace. Having worked as a legal consultant in Egypt, an events coordinater in London, an investment banking intern in Dubai and a graduate at a contracting business in Kuwait, I thrive outside of my comfort zone. I am confident in my ability to apply myself and learn the skills needed to prosper in any working environment I find myself in. I am personally a very curious and passionate person who enjoys learning independently, as I did with my Chartered Financial Analyst Level 1 certification.
+Throughout my career so far, I have often been put in extremely unfamiliar business environments that have forced me to learn and adapt at a very fast pace. I enjoy applying myself and learn the skills needed to prosper in any working environment I find myself in. I am personally a very curious and passionate person who enjoys learning independently and being exposed to new and unfamiliar ideas.
 
-# Enterprise
+# I love working in a team
 
-Two friends and I turned a side-interest in street-food into viable business by co-founding The Big Bushi, offering London's first Sushi Burrito in Brick Lane. We built the company from scratch and began trading within months of inception. I was personally responsible for developing the product, marketing, trading and logistics. I gained a first-hand perspective on the challenges of starting any new venture.
+Two friends and I turned a side-interest in street-food into viable business by co-founding The Big Bushi, offering London's first Sushi Burrito in Brick Lane. We built the company from scratch and began trading within months of inception. I was personally responsible for developing the product, marketing, trading and logistics. I gained a first-hand perspective on the challenges of starting any new venture and working in a small and dynamic team.
 
-I have started a number of different projects from scratch as part of a management team, starting in University. Launching a cultural society with friends across one of the biggest campuses in the UK was an incredibly enjoyable experience. My friends and I quickly established the organisation as a cultural hub on campus, launching the Warwick Middle-East North Africa Forum shortly after.
+I have started a number of different team projects from scratch, starting in University. Launching a cultural society with friends across one of the biggest campuses in the UK was an incredibly enjoyable experience. My friends and I quickly established the organisation as a cultural hub on campus, launching the Warwick Middle-East North Africa Forum shortly after.
 
-Other entrepreneurial experiences include launching a political talks series around the May 2015 UK General Election, centred around a series of talks and debates with a live audience at a space in West London. I was responsible for directing the series as a whole, marketing, logistics and presenting.
+Other such experiences include launching a political talks series around the May 2015 UK General Election, centred around a series of talks and debates with a live audience at a space in West London. I was responsible for directing the series as a whole, marketing, logistics and presenting. 
 
-# Additional Skills
-  - Bi-lingual: English and Arabic
+#### I am curious and passionate about code
 
-#### This Skill
+Before I enrolled in Makers Academy in April of this year, I had absolutely no experience in software development and coding. Since then, my interest and engagement with the subject has grown exponentially, and I am completely fascinated by the subject. I have taken the opportunities given to me in this course to push my technical abilities constantly and to continue learning.
 
-*Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### I can learn quickly and independently
 
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
@@ -97,3 +91,6 @@ Sole responsibility for various research projects ranging from renewable energy 
 ### Interests
 
 I'm a news junkie addicted to current affairs and politics, especially of the Middle-East and Africa. I also love playing football. 
+
+### Additional Skills
+  - Bi-lingual: English and Arabic
