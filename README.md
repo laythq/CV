@@ -10,7 +10,7 @@ Having just completed a 12-week intensive coding bootcamp at Makers in London, I
 
 #### I love working in a team
 
-At Makers I have had the opportunity to work on three different projects in different teams, including a two-week [final project](https://https://github.com/laythq/array_of_sunshine), and have been pair programming throughout the whole course with the rest of my cohort. I've found the experience to be extremely enjoyable, and firmly believe in the power of collaboration and teamwork. 
+At Makers I have had the opportunity to work on three different projects in different teams, including a two-week [final project](https://github.com/laythq/array_of_sunshine), and have been pair programming throughout the whole course with the rest of my cohort. I've found the experience to be extremely enjoyable, and firmly believe in the power of collaboration and teamwork. 
 
 Before Makers, two friends and I turned a side-interest in street-food into viable business by co-founding The Big Bushi, offering London's first Sushi Burrito in Brick Lane. We built the company from scratch and began trading within months of inception. I was personally responsible for developing the product, marketing, trading and logistics. I gained a first-hand perspective on the challenges of starting any new venture and working in a small and dynamic team.
 
@@ -30,7 +30,7 @@ Having worked as a legal consultant in Egypt, an events coordinater in London, a
 
 #### Makers Academy (June to September 2018)
 
-Through Makers, I have picked up a number of skills and experiences. I have learned some Object Oriented Design fundamentals and applied them in my projects, which have been in [Ruby](https://https://github.com/laythq/MakersBnB), [Rails](https://https://github.com/laythq/acebook-nice-team) and [Javascript](https://https://github.com/laythq/NotesApp). I have learned how to test drive my code comprehensively, through tools and frameworks such as RSpec, Jasmine, Istanbul and others. I now fully appreciate the value of TDD and have applied it in all my work so far. I have also learned some basic Front-End skills, working with HTML, CSS and React, as well as other Back-End skills such as SQL. 
+Through Makers, I have picked up a number of skills and experiences. I have learned some Object Oriented Design fundamentals and applied them in my projects, which have been in [Ruby](https://github.com/laythq/MakersBnB), [Rails](https://github.com/laythq/acebook-nice-team) and [Javascript](https://github.com/laythq/NotesApp). I have learned how to test drive my code comprehensively, through tools and frameworks such as RSpec, Jasmine, Istanbul and others. I now fully appreciate the value of TDD and have applied it in all my work so far. I have also learned some basic Front-End skills, working with HTML, CSS and React, as well as other Back-End skills such as SQL. 
 
 I have also enjoyed the experience of learning more about how the Web works. I have built a number of Web Apps as part of a team as well as individually at Makers, working with Rails, Sinatra and Node/Express in the process. 
 
