@@ -1,4 +1,4 @@
-## Layth Al-Qattan
+### Layth Al-Qattan
 
 I am an ambitious and entrepreneurial self-starter who loves to code and learn. My work experience is very diverse, ranging from banking and contracting, to teaching. I have a very strong work ethic and enjoy fast and self-directed learning.
 
@@ -8,21 +8,19 @@ Having just completed a 12-week intensive coding bootcamp at Makers in London, I
 
 ## Skills
 
-Over the Summmer, through Makers, I have been exposed to a very wide range of software development concepts, languages and frameworks. I have had the opportunity to work on three different projects in different teams, including a two-week final project, and have been pair programming throughout the whole course with the rest of my cohort.
+Over the Summmer, through Makers, I have been exposed to a very wide range of software development concepts, languages and frameworks. 
 
-# Learning
+#### I love working in a team
 
-Throughout my career so far, I have often been put in extremely unfamiliar business environments that have forced me to learn and adapt at a very fast pace. I enjoy applying myself and learn the skills needed to prosper in any working environment I find myself in. I am personally a very curious and passionate person who enjoys learning independently and being exposed to new and unfamiliar ideas.
+At Makers I have had the opportunity to work on three different projects in different teams, including a two-week final project, and have been pair programming throughout the whole course with the rest of my cohort. I've found the experience to be extremely enjoyable, and firmly believe in the power of collaboration and teamwork. 
 
-# I love working in a team
-
-Two friends and I turned a side-interest in street-food into viable business by co-founding The Big Bushi, offering London's first Sushi Burrito in Brick Lane. We built the company from scratch and began trading within months of inception. I was personally responsible for developing the product, marketing, trading and logistics. I gained a first-hand perspective on the challenges of starting any new venture and working in a small and dynamic team.
-
-I have started a number of different team projects from scratch, starting in University. Launching a cultural society with friends across one of the biggest campuses in the UK was an incredibly enjoyable experience. My friends and I quickly established the organisation as a cultural hub on campus, launching the Warwick Middle-East North Africa Forum shortly after.
+Before Makers, two friends and I turned a side-interest in street-food into viable business by co-founding The Big Bushi, offering London's first Sushi Burrito in Brick Lane. We built the company from scratch and began trading within months of inception. I was personally responsible for developing the product, marketing, trading and logistics. I gained a first-hand perspective on the challenges of starting any new venture and working in a small and dynamic team.
 
 #### I am curious and passionate about code
 
 Before I enrolled in Makers Academy in April of this year, I had absolutely no experience in software development and coding. Since then, my interest and engagement with the subject has grown exponentially, and I am completely fascinated by the subject. I have taken the opportunities given to me in this course to push my technical abilities constantly and to continue learning.
+
+In my own time I enjoy reading about wider developments in the industry. I have a keen interest in the business and entrepreneurial side of different companies, and love to read about major fundraising and deals that occur across the world in the industry. 
 
 #### I can learn quickly and independently
 
@@ -44,7 +42,7 @@ Modules include: Logic, Philosophy of Science, Elements of the Scientific Method
 
 #### Chartered Financial Analyst Level 1
 
-## Experience
+## Work Experience
 
 **Al Hani Construction and Trading, Kuwait** (January 2017 - May 2018)    
 *Graduate Trainee and Assistant to the Managing Director*
@@ -84,4 +82,5 @@ Sole responsibility for various research projects ranging from renewable energy 
 I'm a news junkie addicted to current affairs and politics, especially of the Middle-East and Africa. I also love playing football. 
 
 ### Additional Skills
-  - Bi-lingual: English and Arabic
+
+Bi-lingual: English and Arabic
