@@ -20,32 +20,23 @@ Two friends and I turned a side-interest in street-food into viable business by 
 
 I have started a number of different team projects from scratch, starting in University. Launching a cultural society with friends across one of the biggest campuses in the UK was an incredibly enjoyable experience. My friends and I quickly established the organisation as a cultural hub on campus, launching the Warwick Middle-East North Africa Forum shortly after.
 
-Other such experiences include launching a political talks series around the May 2015 UK General Election, centred around a series of talks and debates with a live audience at a space in West London. I was responsible for directing the series as a whole, marketing, logistics and presenting. 
-
 #### I am curious and passionate about code
 
 Before I enrolled in Makers Academy in April of this year, I had absolutely no experience in software development and coding. Since then, my interest and engagement with the subject has grown exponentially, and I am completely fascinated by the subject. I have taken the opportunities given to me in this course to push my technical abilities constantly and to continue learning.
 
 #### I can learn quickly and independently
 
+The Makers Academy course was structured around independent and self-directed learning, in a high pace environment. As well as a strong emphasis on team work and pairing, students are also taught how to pick up skills through their own research and individual weekend projects. This course has given me the confidence to continue doing so. 
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)*
+Having worked as a legal consultant in Egypt, an events coordinater in London, an investment banking intern in Dubai and a graduate at a contracting business in Kuwait, I enjoy working under pressure and adapting to meet the needs of my work, especially when working in unfamiliar environments where I have had to learn things quickly. 
 
 ## Education
 
 #### Makers Academy (June to September 2018)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+Through Makers, I have picked up a number of skills and experiences. I have learned how to test drive my code comprehensively, through tools and frameworks such as RSpec, Jasmine, Pytest, Jest, Istanbul and others. I now fully appreciate the value of TDD and have applied it in all my work so far. I have learned some Object Oriented Design fundamentals and applied them in my projects, which have been in Ruby, Rails and Javascript. I have also learned some basic Front-End skills, working with HTML and CSS, as well as other Back-End skills such as SQL. 
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+I have also enjoyed the experience of learning more about how the Web works. I have built a number of Web Apps as part of a team as well as individually at Makers, working with Rails, Sinatra and Node/Express in the process. 
 
 #### BA Philosophy (2:1), University of Warwick (October 2011 to May 2014)
 
