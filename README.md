@@ -44,33 +44,39 @@ Modules include: Logic, Philosophy of Science, Elements of the Scientific Method
 
 **Al Hani Construction and Trading, Kuwait** (January 2017 - May 2018)    
 *Graduate Trainee and Assistant to the Managing Director*
+
 Assisted in drafting strategic reviews, job descriptions, business development plans, and corporate governance reviews.
 
 Led extensive internal audit and re-certification of all departments in ISO:2017. Managed overhaul of all inventory and warehouse management procedures.
 
 **The Big Bushi, London** (September 2016 - December 2016)   
 *Co-founder*
+
 Responsible for developing the menu, marketing, trading and logistics strategies. Gained a first-hand
 perspective on the challenges of starting a street-food business.
 
 **Project Hope, Nablus, Palestine** (October 2015 - May 2015)
 *English Teacher*
+
 Taught adults and university students English, within a wide range of standards and capabilities.
 
 **NBK Capital, Dubai, UAE** (June 2015 - August 2015)
 *Intern*
+
 Intern with National Bank of Kuwait’s sell-side equity research department for one month, and NBK Capital Partners, formerly NBK’s private equity arm, for another month.
 
 Exposed to deal screening, fundraising, financing, and investor relations in a mid-size private equity firm, improved my understanding of the Dubai International Financial Centre (DIFC) and regional capital markets.
 
 **Book & Kitchen, London** (January 2015 - May 2015)
 *Director, People & Politics*
+
 Launched People & Politics talks series, exploring the UK’s political, social and economic challenges with renowned speakers and audiences of up to eighty people.
 
 Responsible for marketing, logistics and hosting. Guests include Ann Pettifor, Polly Toynbee, David Walker, David Graeber and Ha-Joon Chang.
 
 **Thebes Legal Consulting, Cairo** (August 2014 - December 2014)
 *Intern*
+
 Drafted the weekly ‘Thebes Legal Update’ in a small team of researchers and lawyers.
 
 Sole responsibility for various research projects ranging from renewable energy legislation to human rights reform.
