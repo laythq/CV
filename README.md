@@ -24,6 +24,8 @@ Before Makers, two friends and I turned a side-interest in street-food into viab
 
 I spent a year working with a number of electrical, civil and mechanical engineers, and admired the precision and scientific nature of their work. And when I started exploring software development as a hobby, I found my first few CodeWars challenges extremely rewarding, and felt drawn towards this field. The feeling of solving a technical challenge is addictive, and my desire to continue doing so full-time has only strengthened during my Makers course. 
 
+Before this year, I had absolutely no experience in software development and coding. Since then, my interest and engagement with the subject has grown exponentially, and I am completely fascinated by the subject. I have taken the opportunities given to me in this course to push my technical abilities constantly and to continue learning.
+
 In my own time I enjoy reading about wider developments in the industry. I have a keen interest in the business and entrepreneurial side of different companies, and love to read about major fundraising and deals that occur across the world in the industry. My favourite publications are TechCrunch, Medium and the Financial Times.
 
 #### I can learn quickly and independently
