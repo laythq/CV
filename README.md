@@ -1,9 +1,5 @@
 ### Layth Al-Qattan
 
-I am an ambitious and entrepreneurial self-starter who loves to code and learn. My work experience is very diverse, ranging from banking and contracting, to teaching. I have a very strong work ethic and enjoy fast and self-directed learning.
-
-I have travelled extensively throughout Europe, the USA and the Middle-East, and have been able to work and prosper in unfamiliar cultures and organisations. I have direct experience of contributing to independent ventures such as the University of Warwick Arabic Society, the People & Politics talks series, and a street-food startup in Brick Lane.
-
 Having just completed a 12-week intensive coding bootcamp at Makers in London, I am looking to keep learning and developing as a coder. I would like to join a dynamic and compelling company and surround myself with passionate developers that I can learn from. My absolute priority is to continue developing my technical ability and to start contributing to a professional team. 
 
 ## Skills
