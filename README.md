@@ -6,7 +6,7 @@ My favourite projects are:
 
 |Name        |Description|Technologies|
 |:------------:|:-----------:|:------------:|
-|[Hip, Hip, Array!](https://github.com/laythq/array_of_sunshine)|For our final project, we built a useful tool for beginner developers which figures out the right methods for array manipulation in JS, Ruby, and Python|React, Node.js/Express, HTML, CSS, Ruby, Javascript, Python, Enzyme, RSpec, Jest, Pytest, Heroku|
+|[Hip, Hip, Array!](https://github.com/laythq/array_of_sunshine)|For our final project, we built a useful tool for beginner developers which figures out the right methods for array manipulation in JS, Ruby, and Python.|React, Node.js/Express, HTML, CSS, Ruby, Javascript, Python, Enzyme, RSpec, Jest, Pytest, Heroku|
 |[Acebook](https://github.com/laythq/acebook-nice-team)|A Facebook clone, this group-project can handle user registration, login, posts, comments, and likes. 100% code coverage.|React, Node.js/Express, Rails, Rspec, Travis, Heroku|
 |[Database Server](https://github.com/laythq/database-server-tech-test)| A tech test for setting up a simple database server, (but without a database - data is stored in memory). Tests are fully isolated and coverage is 100%.|Node.js/Express, Javascript, Jasmine, Mocha, node-http-mock, mockery, supertest|
 
