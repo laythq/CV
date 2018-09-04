@@ -1,6 +1,6 @@
 ### Layth Al-Qattan
 
-Having just completed a 12-week intensive coding bootcamp at Makers in London, I am looking to keep learning and developing as a coder. I would like to join a dynamic and compelling company and surround myself with passionate developers that I can learn from. My absolute priority is to continue developing my technical ability and to start contributing to a professional team. 
+I am a full-stack junior developer and have just completed a 12-week intensive coding bootcamp at Makers in London. I am looking to keep learning and developing as a coder and would like to join a dynamic and compelling company and surround myself with passionate developers that I can learn from. My absolute priority is to continue developing my technical ability and to start contributing to a professional team. I love working with others, and writing clean, fully-tested code that my team can rely on. 
 
 ## Skills
 
