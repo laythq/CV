@@ -1,6 +1,6 @@
 ### Layth Al-Qattan
 
-I am a full-stack junior developer and have just completed a 12-week intensive coding bootcamp at Makers in London. I am looking to keep learning and developing as a coder and would like to join a dynamic and compelling company and surround myself with passionate developers that I can learn from. My absolute priority is to continue developing my technical ability and to start contributing to a professional team. I love working with others, and writing clean, fully-tested code that my team can rely on. 
+I am a full-stack junior developer and have just completed a 12-week intensive coding bootcamp at Makers in London. I am looking to keep learning and developing as a coder and would like to join a dynamic and compelling company and surround myself with passionate developers that I can learn from. My absolute priority is to continue developing my technical ability and to start contributing to a professional dev team. I love working with others, and writing clean, fully-tested code that my team can rely on. 
 
 ## Skills
 
@@ -12,7 +12,7 @@ Before Makers, two friends and I turned a side-interest in street-food into viab
 
 #### I am curious and passionate about code
 
-Before I enrolled in Makers Academy in April of this year, I had absolutely no experience in software development and coding. Since then, my interest and engagement with the subject has grown exponentially, and I am completely fascinated by the subject. I have taken the opportunities given to me in this course to push my technical abilities constantly and to continue learning.
+I spent a year working with a number of electrical, civil and mechanical engineers, and admired the precision and scientific nature of their work. And when I started exploring software development as a hobby, I found my first few CodeWars challenges extremely rewarding, and felt drawn towards this field. The feeling of solving a technical challenge is addictive, and my desire to continue doing so full-time has only strengthened during my Makers course. 
 
 In my own time I enjoy reading about wider developments in the industry. I have a keen interest in the business and entrepreneurial side of different companies, and love to read about major fundraising and deals that occur across the world in the industry. My favourite publications are TechCrunch, Medium and the Financial Times.
 
