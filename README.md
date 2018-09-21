@@ -1,6 +1,8 @@
 ### Layth Al-Qattan
 
-I am a full-stack junior developer and have just completed a 12-week intensive coding bootcamp at Makers in London. I am looking to keep learning and developing as a coder and would like to join a dynamic and compelling company and surround myself with passionate developers that I can learn from. My absolute priority is to continue developing my technical ability and to start contributing to a professional dev team. I love working with others, and writing clean, fully-tested code that my team can rely on. 
+I am a full-stack junior developer and have just completed a 12-week intensive coding bootcamp at Makers in London. Before learning to code, I spent years working around the world in multi-cultural, multi-lingual organisations ranging from banking to contracting. I have experience working in diverse teams, under high-pressure and delivering awesome products and services. 
+
+I am looking to keep learning and developing as a coder and would like to join a dynamic and compelling company and surround myself with passionate developers that I can learn from. I love working with others, and writing clean, fully-tested code that my team can rely on.
 
 My favourite projects are:
 
@@ -10,25 +12,27 @@ My favourite projects are:
 |[Acebook](https://github.com/laythq/acebook-nice-team)|A Facebook clone, this group-project can handle user registration, login, posts, comments, and likes. 100% code coverage.|React, Node.js/Express, Rails, Rspec, Travis, Heroku|
 |[Database Server](https://github.com/laythq/database-server-tech-test)| A tech test for setting up a simple database server, (but without a database - data is stored in memory). Tests are fully isolated and coverage is 100%.|Node.js/Express, Javascript, Jasmine, Mocha, node-http-mock, mockery, supertest|
 
+### What I love about coding
 
+#### Languages and Frameworks
 
-## Skills
+The projects I've worked on at Makers have exposed me to a range of different languages and frameworks. I love the flexibility and optionality of Javascript, especially the different libraries it can be used with. The ability to make a fully dynamic, single-page [app](https://github.com/laythq/array_of_sunshine) in React was one of my proudest moments at Makers, and made me appreciate the power and versatility of the library and JS in general. 
 
-#### I love working in a team
+Making a [Facebook clone](https://github.com/laythq/acebook-nice-team) using Rails was another great experience that I learned a huge amount from. Rails was the first framework I'd come across during the course, and I loved the power and simplicity of it. Although I didn't always understand what was going on 'under the hood', and had to adjust to the framework's strong opinions, it was a pleasure to work with and really helped me understand the power of such frameworks.
 
-At Makers I have had the opportunity to work on three different projects in different teams, including a two-week [final project](https://github.com/laythq/array_of_sunshine), and have been pair programming throughout the whole course with the rest of my cohort. I've found the experience to be extremely enjoyable, and firmly believe in the power of collaboration and teamwork. 
+#### Collaboration
+
+I love the collaborative nature of software development. Whether it's solving a stubborn little bug with a pair partner over a couple of hours, or building and deploying a full application over a couple of weeks, I really enjoy building things with others and want to continue doing so. 
+
+I have had the opportunity to work on three different projects in different teams, including a two-week [final project](https://github.com/laythq/array_of_sunshine), and have been pair programming throughout the whole course with the rest of my cohort. All three group projects were built using Agile methodologies, building out a project iteratively (starting with an MVP) and communicating as a team through a series of stand-ups and retros. I now appreciate the effectiveness of Agile and how it can really unlock a teams potential and productivity.
+
+### Before I learned to code...
+
+#### I learned how to build a team
 
 Before Makers, two friends and I turned a side-interest in street-food into viable business by co-founding [The Big Bushi](https://www.instagram.com/thebigbushi/?hl=en), offering London's first Sushi Burrito in Brick Lane. We built the company from scratch and began trading within months of inception. I was personally responsible for developing the product, marketing, trading and logistics. I gained a first-hand perspective on the challenges of starting any new venture and working in a small and dynamic team.
 
-#### I am curious and passionate about code
-
-I spent a year working with a number of electrical, civil and mechanical engineers, and admired the precision and scientific nature of their work. And when I started exploring software development as a hobby, I found my first few CodeWars challenges extremely rewarding, and felt drawn towards this field. The feeling of solving a technical challenge is addictive, and my desire to continue doing so full-time has only strengthened during my Makers course. 
-
-In my own time I enjoy reading about wider developments in the industry. I have a keen interest in the business and entrepreneurial side of different companies, and love to read about major fundraising and deals that occur across the world in the industry. My favourite publications are TechCrunch, Medium and the Financial Times.
-
-#### I can learn quickly and independently
-
-The Makers Academy course is structured around independent and self-directed learning in a high pace environment. As well as a strong emphasis on team work and pairing, students are also taught how to pick up skills through their own research and individual weekend projects. This course has given me the confidence to continue doing so. 
+#### I learned to work under pressure
 
 Having worked as a legal consultant in Egypt, an events coordinater in London, an investment banking intern in Dubai and a graduate at a contracting business in Kuwait, I enjoy working under pressure and adapting to meet the needs of my work, especially when working in unfamiliar environments where I have had to learn things quickly. 
 
