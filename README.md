@@ -16,27 +16,27 @@ My favourite projects are:
 
 #### Languages and Frameworks
 
-The projects I've worked on at Makers have exposed me to a range of different languages and frameworks. I love the flexibility and optionality of Javascript, especially the different libraries it can be used with. The ability to make a fully dynamic, single-page [app](https://github.com/laythq/array_of_sunshine) in React was one of my proudest moments at Makers, and made me appreciate the power and versatility of the library and JS in general. 
+The projects I've worked on at Makers have exposed me to a range of different languages and frameworks. I love the flexibility of Javascript, especially the different libraries it can be used with. The ability to make a fully dynamic, single-page [app](https://github.com/laythq/array_of_sunshine) in React was one of my proudest moments at Makers, and made me appreciate the power of the library and JS in general. 
 
-Making a [Facebook clone](https://github.com/laythq/acebook-nice-team) using Rails was another great experience that I learned a huge amount from. Rails was the first framework I'd come across during the course, and I love the power and simplicity of it. Although I didn't always understand what was going on 'under the hood', and had to adjust to the framework's strong opinions, it was a pleasure to work with and really helped me understand the power of such frameworks.
+Making a [Facebook clone](https://github.com/laythq/acebook-nice-team) using Rails was another great experience that I learned a huge amount from. Rails was the first framework I'd come across during the course, and I love its versatility. Although I didn't always understand what was going on 'under the hood', and had to adjust to the framework's strong opinions, it was a pleasure to work with and really helped me understand the power of such frameworks.
 
 #### OOD, TDD, BDD and other habits
 
-I've picked up a number of useful habits over my learning journey, not least an obsession with test-driving my code, whether its unit testing or integration. I've used RSpec, Jasmine, Jest, Enzyme, Pytest and a number of other suites.
+I've picked up a number of useful habits over my learning journey, not least an obsession with test-driving my code, whether its unit testing or integration. I've used RSpec, Jasmine, Jest, Enzyme, Pytest, Cypress and a number of other suites.
 
-I've also learned valuable ways of approaching design problems, whether its a simple diagram or a few user stories. I've learned that understanding the end-goal and getting a macro view of the problem is essential before diving in.
+I've also learned valuable ways of approaching design problems, whether it's drawing a simple diagram or writing out a few user stories. I've learned that understanding the end-goal and getting a macro view of the problem is essential before diving in.
 
 #### Collaboration
 
-I love the collaborative nature of software development. Whether it's solving a stubborn little bug with a pair partner over a couple of hours, or building and deploying a full application over a couple of weeks, I really enjoy building things with others and want to continue doing so. 
+I love the collaborative nature of software development. Solving a stubborn little bug with a pair partner over a couple of hours, or building and deploying a full application over a couple of weeks, I really enjoy building things with others and want to continue doing so. 
 
-I have had the opportunity to work on three different projects in different teams, including a two-week [final project](https://github.com/laythq/array_of_sunshine), and have been pair programming throughout the whole course with the rest of my cohort. All three group projects were built using Agile methodologies, building out a project iteratively (starting with an MVP) and communicating as a team through a series of stand-ups and retros. I now appreciate the effectiveness of Agile and how it can really unlock a teams potential and productivity.
+I have had the opportunity to work on three different projects in different teams, including a two-week [final project](https://github.com/laythq/array_of_sunshine), and have been pair programming throughout the whole course with the rest of my cohort. All three group projects were built using Agile methodologies, building out a product iteratively (starting with an MVP) and communicating as a team through a series of stand-ups and retros. I now appreciate the effectiveness of Agile and how it can really unlock a team's potential and productivity.
 
 ### Before I learned to code...
 
 #### I learned how to deliver to clients
 
-I spent a year in Kuwait working with a number of electrical, civil and mechanical engineers on some of the country's biggest engineering projects. Working with the Kuwaiti Ministry of Education, Interior Ministry and the Royal Court, I served some the country's most high profile clients and helped deliver huge projects on tight timelines.
+I spent a year in Kuwait working with a number of electrical, civil and mechanical engineers on some of the country's biggest engineering projects. Working with the Kuwaiti Ministry of Education, Ministry of Culture and the Royal Court, I served some the country's most high profile clients and helped deliver [huge projects](http://www.alhani.com/) on tight timelines.
 
 #### I learned how to build a team
 
@@ -72,8 +72,7 @@ Led extensive internal audit and re-certification of all departments in ISO:2017
 **The Big Bushi, London** (September 2016 - December 2016)   
 *Co-founder*
 
-Responsible for developing the menu, marketing, trading and logistics strategies. Gained a first-hand
-perspective on the challenges of starting a street-food business.
+Responsible for developing the menu, marketing, trading and logistics strategies. Gained a first-hand perspective on the challenges of starting a street-food business.
 
 **Project Hope, Nablus, Palestine** (October 2015 - May 2015)
 *English Teacher*
