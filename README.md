@@ -22,7 +22,7 @@ Making a [Facebook clone](https://github.com/laythq/acebook-nice-team) using Rai
 
 #### OOD, TDD, BDD and other habits
 
-I've picked up a number of useful habits over my learning journey, not least an obsession with test-driving my code, whether its unit testing or integration. I've used RSpec, Jasmine, Jest, Enzyme, Pytest, Cypress and a number of other suites.
+I enjoy the challenges that come with writing good code, especially testing and integration. I've picked up a number of useful habits over my learning journey, not least an obsession with test-driving my code, whether its unit testing or feature testing. I've used RSpec, Jasmine, Jest, Enzyme, Pytest, Cypress and other suites.
 
 I've also learned valuable ways of approaching design problems, whether it's drawing a simple diagram or writing out a few user stories. I've learned that understanding the end-goal and getting a macro view of the problem is essential before diving in.
 
