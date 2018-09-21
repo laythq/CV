@@ -1,6 +1,6 @@
 ### Layth Al-Qattan
 
-I am a full-stack junior developer and have just completed a 12-week intensive coding bootcamp at Makers in London. Before learning to code, I spent years working around the world in multi-cultural, multi-lingual organisations ranging from banking to contracting. I have experience working in diverse teams, under high-pressure and delivering awesome products and services. 
+I am a full-stack junior developer and have just completed a 12-week intensive coding bootcamp at Makers in London. Before learning to code, I spent a year working on some of Kuwait's most prestigious engineering [projects](http://www.alhani.com/), managing various high-performing engineering and contracting teams. Before that, I spent years working around the world in multi-cultural, multi-lingual organisations ranging from banking to education. 
 
 I am looking to keep learning and developing as a coder and would like to join a dynamic and compelling company and surround myself with passionate developers that I can learn from. I love working with others, and writing clean, fully-tested code that my team can rely on.
 
@@ -8,7 +8,7 @@ My favourite projects are:
 
 |Name        |Description|Technologies|
 |:------------:|:-----------:|:------------:|
-|[Array of Sunshine](https://github.com/laythq/array_of_sunshine)|For our final project, we built a useful tool for beginner developers which figures out the right methods for array manipulation in JS, Ruby, and Python.|React, Node.js/Express, HTML, CSS, Ruby, Javascript, Python, Enzyme, RSpec, Jest, Pytest, Heroku|
+|[Array of Sunshine](https://github.com/laythq/array_of_sunshine)|For our final project, we built a tool for beginner developers which figures out the right methods for array manipulation in JS, Ruby, and Python.|React, Node.js/Express, HTML, CSS, Ruby, Javascript, Python, Enzyme, RSpec, Jest, Pytest, Heroku|
 |[Acebook](https://github.com/laythq/acebook-nice-team)|A Facebook clone, this group-project can handle user registration, login, posts, comments, and likes. 100% code coverage.|React, Node.js/Express, Rails, Rspec, Travis, Heroku|
 |[Database Server](https://github.com/laythq/database-server-tech-test)| A tech test for setting up a simple database server, (but without a database - data is stored in memory). Tests are fully isolated and coverage is 100%.|Node.js/Express, Javascript, Jasmine, Mocha, node-http-mock, mockery, supertest|
 
@@ -18,7 +18,13 @@ My favourite projects are:
 
 The projects I've worked on at Makers have exposed me to a range of different languages and frameworks. I love the flexibility and optionality of Javascript, especially the different libraries it can be used with. The ability to make a fully dynamic, single-page [app](https://github.com/laythq/array_of_sunshine) in React was one of my proudest moments at Makers, and made me appreciate the power and versatility of the library and JS in general. 
 
-Making a [Facebook clone](https://github.com/laythq/acebook-nice-team) using Rails was another great experience that I learned a huge amount from. Rails was the first framework I'd come across during the course, and I loved the power and simplicity of it. Although I didn't always understand what was going on 'under the hood', and had to adjust to the framework's strong opinions, it was a pleasure to work with and really helped me understand the power of such frameworks.
+Making a [Facebook clone](https://github.com/laythq/acebook-nice-team) using Rails was another great experience that I learned a huge amount from. Rails was the first framework I'd come across during the course, and I love the power and simplicity of it. Although I didn't always understand what was going on 'under the hood', and had to adjust to the framework's strong opinions, it was a pleasure to work with and really helped me understand the power of such frameworks.
+
+#### OOD, TDD, BDD and other habits
+
+I've picked up a number of useful habits over my learning journey, not least an obsession with test-driving my code, whether its unit testing or integration. I've used RSpec, Jasmine, Jest, Enzyme, Pytest and a number of other suites.
+
+I've also learned valuable ways of approaching design problems, whether its a simple diagram or a few user stories. I've learned that understanding the end-goal and getting a macro view of the problem is essential before diving in.
 
 #### Collaboration
 
@@ -27,6 +33,10 @@ I love the collaborative nature of software development. Whether it's solving a 
 I have had the opportunity to work on three different projects in different teams, including a two-week [final project](https://github.com/laythq/array_of_sunshine), and have been pair programming throughout the whole course with the rest of my cohort. All three group projects were built using Agile methodologies, building out a project iteratively (starting with an MVP) and communicating as a team through a series of stand-ups and retros. I now appreciate the effectiveness of Agile and how it can really unlock a teams potential and productivity.
 
 ### Before I learned to code...
+
+#### I learned how to deliver to clients
+
+I spent a year in Kuwait working with a number of electrical, civil and mechanical engineers on some of the country's biggest engineering projects. Working with the Kuwaiti Ministry of Education, Interior Ministry and the Royal Court, I served some the country's most high profile clients and helped deliver huge projects on tight timelines.
 
 #### I learned how to build a team
 
