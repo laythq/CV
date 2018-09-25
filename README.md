@@ -1,6 +1,6 @@
 ### Layth Al-Qattan
 
-I am a full-stack junior developer and have just completed a 12-week intensive coding bootcamp at Makers in London. Before learning to code, I spent a year working on some of Kuwait's most prestigious engineering [projects](http://www.alhani.com/), managing various high-performing engineering and contracting teams. Before that, I spent years working around the world in multi-cultural, multi-lingual organisations ranging from banking to education. 
+I am a full-stack junior developer and have just completed a 12-week intensive coding bootcamp at Makers in London. I previously spent a year working on some of Kuwait's most prestigious engineering [projects](http://www.alhani.com/), managing various high-performing engineering and contracting teams. Before that, I spent years working around the world in multi-cultural, multi-lingual organisations ranging from banking to education. 
 
 I am looking to keep learning and developing as a coder and would like to join a dynamic and compelling company and surround myself with passionate developers that I can learn from. I love working with others, and writing clean, fully-tested code that my team can rely on.
 
@@ -32,7 +32,7 @@ I love the collaborative nature of software development. Solving a stubborn litt
 
 I have had the opportunity to work on three different projects in different teams, including a two-week [final project](https://github.com/laythq/array_of_sunshine), and have been pair programming throughout the whole course with the rest of my cohort. All three group projects were built using Agile methodologies, building out a product iteratively (starting with an MVP) and communicating as a team through a series of stand-ups and retros. I now appreciate the effectiveness of Agile and how it can really unlock a team's potential and productivity.
 
-### Before I learned to code...
+### Other skills...
 
 #### I learned how to deliver to clients
 
@@ -40,7 +40,7 @@ I spent a year in Kuwait working with a number of electrical, civil and mechanic
 
 #### I learned how to build a team
 
-Before Makers, two friends and I turned a side-interest in street-food into viable business by co-founding [The Big Bushi](https://www.instagram.com/thebigbushi/?hl=en), offering London's first Sushi Burrito in Brick Lane. We built the company from scratch and began trading within months of inception. I was personally responsible for developing the product, marketing, trading and logistics. I gained a first-hand perspective on the challenges of starting any new venture and working in a small and dynamic team.
+Last year, two friends and I turned a side-interest in street-food into viable business by co-founding [The Big Bushi](https://www.instagram.com/thebigbushi/?hl=en), offering London's first Sushi Burrito in Brick Lane. We built the company from scratch and began trading within months of inception. I was personally responsible for developing the product, marketing, trading and logistics. I gained a first-hand perspective on the challenges of starting any new venture and working in a small and dynamic team.
 
 #### I learned to work under pressure
 
