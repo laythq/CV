@@ -34,15 +34,15 @@ I have had the opportunity to work on three different projects in different team
 
 ### Other skills...
 
-#### I learned how to deliver to clients
+#### I can deliver to clients
 
 I spent a year in Kuwait working with a number of electrical, civil and mechanical engineers on some of the country's biggest engineering projects. Working with the Kuwaiti Ministry of Education, Ministry of Culture and the Royal Court, I served some the country's most high profile clients and helped deliver [huge projects](http://www.alhani.com/) on tight timelines.
 
-#### I learned how to build a team
+#### I know can build a team
 
 Last year, two friends and I turned a side-interest in street-food into viable business by co-founding [The Big Bushi](https://www.instagram.com/thebigbushi/?hl=en), offering London's first Sushi Burrito in Brick Lane. We built the company from scratch and began trading within months of inception. I was personally responsible for developing the product, marketing, trading and logistics. I gained a first-hand perspective on the challenges of starting any new venture and working in a small and dynamic team.
 
-#### I learned to work under pressure
+#### I can work under pressure
 
 Having worked as a legal consultant in Egypt, an events coordinater in London, an investment banking intern in Dubai and a graduate at a contracting business in Kuwait, I enjoy working under pressure and adapting to meet the needs of my work, especially when working in unfamiliar environments where I have had to learn things quickly. 
 
