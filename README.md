@@ -18,7 +18,7 @@ My favourite projects are:
 
 I spent a year in Kuwait working with a number of electrical, civil and mechanical engineers on some of the country's biggest engineering projects. Working with the Kuwaiti Ministry of Education, Ministry of Culture and the Royal Court, I served some the country's most high profile clients and helped deliver [huge projects](http://www.alhani.com/) on tight timelines.
 
-#### I know can build a team
+#### I can work in a team
 
 Last year, two friends and I turned a side-interest in street-food into viable business by co-founding [The Big Bushi](https://www.instagram.com/thebigbushi/?hl=en), offering London's first Sushi Burrito in Brick Lane. We built the company from scratch and began trading within months of inception. I was personally responsible for developing the product, marketing, trading and logistics. I gained a first-hand perspective on the challenges of starting any new venture and working in a small and dynamic team.
 
