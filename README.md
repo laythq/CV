@@ -12,6 +12,20 @@ My favourite projects are:
 |[Acebook](https://github.com/laythq/acebook-nice-team)|A Facebook clone, this group-project can handle user registration, login, posts, comments, and likes. 100% code coverage.|React, Node.js/Express, Rails, Rspec, Travis, Heroku|
 |[Database Server](https://github.com/laythq/database-server-tech-test)| A tech test for setting up a simple database server, (but without a database - data is stored in memory). Tests are fully isolated and coverage is 100%.|Node.js/Express, Javascript, Jasmine, Mocha, node-http-mock, mockery, supertest|
 
+### Skills
+
+#### I can deliver to clients
+
+I spent a year in Kuwait working with a number of electrical, civil and mechanical engineers on some of the country's biggest engineering projects. Working with the Kuwaiti Ministry of Education, Ministry of Culture and the Royal Court, I served some the country's most high profile clients and helped deliver [huge projects](http://www.alhani.com/) on tight timelines.
+
+#### I know can build a team
+
+Last year, two friends and I turned a side-interest in street-food into viable business by co-founding [The Big Bushi](https://www.instagram.com/thebigbushi/?hl=en), offering London's first Sushi Burrito in Brick Lane. We built the company from scratch and began trading within months of inception. I was personally responsible for developing the product, marketing, trading and logistics. I gained a first-hand perspective on the challenges of starting any new venture and working in a small and dynamic team.
+
+#### I can work under pressure
+
+Having worked as a legal consultant in Egypt, an events coordinater in London, an investment banking intern in Dubai and a graduate at a contracting business in Kuwait, I enjoy working under pressure and adapting to meet the needs of my work, especially when working in unfamiliar environments where I have had to learn things quickly. 
+
 ### What I love about coding
 
 #### Languages and Frameworks
@@ -31,20 +45,6 @@ I've also learned valuable ways of approaching design problems, whether it's dra
 I love the collaborative nature of software development. Solving a stubborn little bug with a pair partner over a couple of hours, or building and deploying a full application over a couple of weeks, I really enjoy building things with others and want to continue doing so. 
 
 I have had the opportunity to work on three different projects in different teams, including a two-week [final project](https://github.com/laythq/array_of_sunshine), and have been pair programming throughout the whole course with the rest of my cohort. All three group projects were built using Agile methodologies, building out a product iteratively (starting with an MVP) and communicating as a team through a series of stand-ups and retros. I now appreciate the effectiveness of Agile and how it can really unlock a team's potential and productivity.
-
-### Other skills...
-
-#### I can deliver to clients
-
-I spent a year in Kuwait working with a number of electrical, civil and mechanical engineers on some of the country's biggest engineering projects. Working with the Kuwaiti Ministry of Education, Ministry of Culture and the Royal Court, I served some the country's most high profile clients and helped deliver [huge projects](http://www.alhani.com/) on tight timelines.
-
-#### I know can build a team
-
-Last year, two friends and I turned a side-interest in street-food into viable business by co-founding [The Big Bushi](https://www.instagram.com/thebigbushi/?hl=en), offering London's first Sushi Burrito in Brick Lane. We built the company from scratch and began trading within months of inception. I was personally responsible for developing the product, marketing, trading and logistics. I gained a first-hand perspective on the challenges of starting any new venture and working in a small and dynamic team.
-
-#### I can work under pressure
-
-Having worked as a legal consultant in Egypt, an events coordinater in London, an investment banking intern in Dubai and a graduate at a contracting business in Kuwait, I enjoy working under pressure and adapting to meet the needs of my work, especially when working in unfamiliar environments where I have had to learn things quickly. 
 
 ## Education
 
