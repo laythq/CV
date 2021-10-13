@@ -1,50 +1,34 @@
 ### Layth Al-Qattan
 
-I am a full-stack junior developer and have just completed a 12-week intensive coding bootcamp at Makers in London. I previously spent a year working on some of Kuwait's most prestigious engineering [projects](http://www.alhani.com/), managing various high-performing engineering and contracting teams. Before that, I spent years working around the world in multi-cultural, multi-lingual organisations ranging from banking to education. 
+Projects:
 
-I am looking to keep learning and developing as a coder and would like to join a dynamic and compelling company and surround myself with passionate developers that I can learn from. I love working with others, and writing clean, fully-tested code that my team can rely on.
-
-My favourite projects are:
-
-|Name        |Description|Technologies|
+|Name        |Description|Stack|
 |:------------:|:-----------:|:------------:|
-|[Array of Sunshine](https://github.com/laythq/array_of_sunshine)|For our final project, we built a tool for beginner developers which figures out the right methods for array manipulation in JS, Ruby, and Python.|React, Node.js/Express, HTML, CSS, Ruby, Javascript, Python, Enzyme, RSpec, Jest, Pytest, Heroku|
-|[Acebook](https://github.com/laythq/acebook-nice-team)|A Facebook clone, this group-project can handle user registration, login, posts, comments, and likes. 100% code coverage.|React, Node.js/Express, Rails, Rspec, Travis, Heroku|
-|[Database Server](https://github.com/laythq/database-server-tech-test)| A tech test for setting up a simple database server, (but without a database - data is stored in memory). Tests are fully isolated and coverage is 100%.|Node.js/Express, Javascript, Jasmine, Mocha, node-http-mock, mockery, supertest|
+|[Keep Me Posted](https://keepsmeposted.com)|Digital startup supporting elderly care through reminiscence therapy. Photo-sharing, group scheduling and other content-creation and editing features. Led code audit and integration with Stripe Checkout and Portal.|Client built using Gatsby.js and React ES6, styled with Sass. RESTful Node.js API hosted in Heroku and AWS, with MongoDB.|
+|[Square Kitchen](https://squarekitchen.com)|A UK marketplace for commercial and industrial kitchen spaces, supporting vendors and buyers with in-built chat functions.|A Next.js SSR client built on React ES6 and Apollo GraphQL, with Next.js Serverless Functions and styled with rebass/styled-system. Using Hasura GraphQL Postgres Database. Unit testing with Jest/Enzyme.|
+|[AND Digital Website](https://and.digital)| Internal company project for new website. Content needed to be managed by other company departments through Contentful CMS.|A Gatsby SSR and SSG client built on React ES6 and styled-components. Integrated with Contentful CMS and their GraphQL API. Unit testing with Jest/Enzyme.|
+[Costa Coffee Website](https://costa.co.uk)| Client project for Costa Coffee, a mix of statically and dynamically generated pages for their main website for product information, Costa Club loyalty scheme, store locator and e-commerce platform.|Migrated legacy React client to Gatsby SSR and SSG client built on React ES6 and CSS modules, consuming Node.js REST API. Migrated legacy CMS (Adobe AEM) to Contentful CMS and their GraphQL API. Unit testing with Jest/Enzyme.|
 
 ### Skills
 
-#### I can deliver to clients
+React.js \
+HTML / CSS / SASS \
+Node.js \
+GraphQL / Apollo \
+Contentful / Adobe AEM \
+Gatsby.js / Next.js \
+Jest / Enzyme / Storybook \
+Ruby / Rails 
 
-I spent a year in Kuwait working with a number of electrical, civil and mechanical engineers on some of the country's biggest engineering projects. Working with the Kuwaiti Ministry of Education, Ministry of Culture and the Royal Court, I served some the country's most high profile clients and helped deliver [huge projects](http://www.alhani.com/) on tight timelines.
+### Certifications
 
-#### I can work in a team
+Contentful Professional Certification (2020)
 
-Last year, two friends and I turned a side-interest in street-food into viable business by co-founding [The Big Bushi](https://www.instagram.com/thebigbushi/?hl=en), offering London's first Sushi Burrito in Brick Lane. We built the company from scratch and began trading within months of inception. I was personally responsible for developing the product, marketing, trading and logistics. I gained a first-hand perspective on the challenges of starting any new venture and working in a small and dynamic team.
+#### Languages
 
-#### I can work under pressure
-
-Having worked as a legal consultant in Egypt, an events coordinater in London, an investment banking intern in Dubai and a graduate at a contracting business in Kuwait, I enjoy working under pressure and adapting to meet the needs of my work, especially when working in unfamiliar environments where I have had to learn things quickly. 
-
-### What I love about coding
-
-#### Languages and Frameworks
-
-The projects I've worked on at Makers have exposed me to a range of different languages and frameworks. I love the flexibility of Javascript, especially the different libraries it can be used with. The ability to make a fully dynamic, single-page [app](https://github.com/laythq/array_of_sunshine) in React was one of my proudest moments at Makers, and made me appreciate the power of the library and JS in general. 
-
-Making a [Facebook clone](https://github.com/laythq/acebook-nice-team) using Rails was another great experience that I learned a huge amount from. Rails was the first framework I'd come across during the course, and I love its versatility. Although I didn't always understand what was going on 'under the hood', and had to adjust to the framework's strong opinions, it was a pleasure to work with and really helped me understand the power of such frameworks.
-
-#### OOD, TDD, BDD and other habits
-
-I enjoy the challenges that come with writing good code, especially testing and integration. I've picked up a number of useful habits over my learning journey, not least an obsession with test-driving my code, whether its unit testing or feature testing. I've used RSpec, Jasmine, Jest, Enzyme, Pytest, Cypress and other suites.
-
-I've also learned valuable ways of approaching design problems, whether it's drawing a simple diagram or writing out a few user stories. I've learned that understanding the end-goal and getting a macro view of the problem is essential before diving in.
-
-#### Collaboration
-
-I love the collaborative nature of software development. Solving a stubborn little bug with a pair partner over a couple of hours, or building and deploying a full application over a couple of weeks, I really enjoy building things with others and want to continue doing so. 
-
-I have had the opportunity to work on three different projects in different teams, including a two-week [final project](https://github.com/laythq/array_of_sunshine), and have been pair programming throughout the whole course with the rest of my cohort. All three group projects were built using Agile methodologies, building out a product iteratively (starting with an MVP) and communicating as a team through a series of stand-ups and retros. I now appreciate the effectiveness of Agile and how it can really unlock a team's potential and productivity.
+JavaScript ES6 \
+Ruby / Rails \
+HTML / CSS 
 
 ## Education
 
@@ -60,7 +44,7 @@ Modules include: Logic, Philosophy of Science, Elements of the Scientific Method
 
 #### Chartered Financial Analyst Level 1
 
-## Work Experience
+## Other Professional Experience
 
 **Al Hani Construction and Trading, Kuwait** (January 2017 - May 2018)    
 *Graduate Trainee and Assistant to the Managing Director*
@@ -68,11 +52,6 @@ Modules include: Logic, Philosophy of Science, Elements of the Scientific Method
 Assisted in drafting strategic reviews, job descriptions, business development plans, and corporate governance reviews.
 
 Led extensive internal audit and re-certification of all departments in ISO:2017. Managed overhaul of all inventory and warehouse management procedures.
-
-**The Big Bushi, London** (September 2016 - December 2016)   
-*Co-founder*
-
-Responsible for developing the menu, marketing, trading and logistics strategies. Gained a first-hand perspective on the challenges of starting a street-food business.
 
 **Project Hope, Nablus, Palestine** (October 2015 - May 2015)
 *English Teacher*
@@ -85,20 +64,6 @@ Taught adults and university students English, within a wide range of standards 
 Intern with National Bank of Kuwait’s sell-side equity research department for one month, and NBK Capital Partners, formerly NBK’s private equity arm, for another month.
 
 Exposed to deal screening, fundraising, financing, and investor relations in a mid-size private equity firm, improved my understanding of the Dubai International Financial Centre (DIFC) and regional capital markets.
-
-**Book & Kitchen, London** (January 2015 - May 2015)
-*Director, People & Politics*
-
-Launched People & Politics talks series, exploring the UK’s political, social and economic challenges with renowned speakers and audiences of up to eighty people.
-
-Responsible for marketing, logistics and hosting. Guests include Ann Pettifor, Polly Toynbee, David Walker, David Graeber and Ha-Joon Chang.
-
-**Thebes Legal Consulting, Cairo** (August 2014 - December 2014)
-*Intern*
-
-Drafted the weekly ‘Thebes Legal Update’ in a small team of researchers and lawyers.
-
-Sole responsibility for various research projects ranging from renewable energy legislation to human rights reform.
 
 ### Interests
 
